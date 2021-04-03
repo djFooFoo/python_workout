@@ -1,0 +1,2 @@
+mockito~=1.2.2
+assertpy~=1.1
